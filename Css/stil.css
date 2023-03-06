@@ -1,0 +1,22 @@
+body{
+	background-color:skyblue;
+}
+li{
+	color:white;
+	font-size:20px;
+	text-decoration:underline;
+}
+
+img{
+	width:220px;
+	height:130px;
+}
+div
+{
+	border:2px solid gray;
+	width:20px;
+	height:20px;
+	background-color:orange;
+	text-align:center;
+	
+}
